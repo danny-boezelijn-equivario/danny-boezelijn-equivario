@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @danny-boezelijn-equivario
+- 👋 Hi, I’m @danny-boezelijn-outlook
 - 👀 I’m interested in developing software and collaborating on projects within EquiVario.
 - 🌱 I’m currently learning ASP.NET Core MVC with the use of Entity Framework
 - 💞️ I’m looking to collaborate with collegues
